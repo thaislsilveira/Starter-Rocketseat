@@ -3,7 +3,7 @@
 ## Descrição do projeto :star:
 
 Uma plataforma desenvolvida através do **Starter** da [Rocketseat](https://www.rocketseat.com.br).
-Que tem o intuito de listar os repositórios de alguns framework.
+Que tem o intuito de listar os repositórios de alguns frameworks.
 A ideia por trás da plataforma é mostrar os conceitos básicos de NodeJS, ReactJS e React Native.
 
 ## Como rodar a aplicação :arrow_forward:
