@@ -1,3 +1,8 @@
+<h1 align='center'>JSHunt - Starter da Rocketseat</h1>
+
+## Descrição do projeto :star:
+
+Uma plataforma desenvolvida através do **Starter** da [Rocketseat](https://www.rocketseat.com.br).
 Que tem o intuito de listar os repositórios de alguns framework.
 A ideia por trás da plataforma é mostrar os conceitos básicos de NodeJS, ReactJS e React Native.
 
@@ -30,4 +35,4 @@ yarn start
 
 ## Web :computer:
 
-![HuntWeb](https://github.com/thaislsilveira/proffy-next-level-week/blob/master/web/src/assets/images/Peek%2007-08-2020%2017-17.gif)
+![HuntWeb](https://github.com/thaislsilveira/Starter-Rocketseat/blob/master/assets/web.gif)
