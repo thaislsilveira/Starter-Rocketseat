@@ -23,7 +23,7 @@ export default class Main extends Component {
     this.loadProducts();
   }
 
-  loadProducts = async () => {
+  loadProducts = async (page = 1) => {
     const response = await api.get(`/products?page=${page}`);
 
     const { docs, ...productInfo } = response.data;
