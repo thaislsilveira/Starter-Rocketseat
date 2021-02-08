@@ -33,6 +33,6 @@ yarn start
 </ul>
 
 
-## Web :computer:
+<h2 align='center'>Web :computer:</h2>
 
 ![HuntWeb](https://github.com/thaislsilveira/Starter-Rocketseat/blob/master/assets/web.gif)
